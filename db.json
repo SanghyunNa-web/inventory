@@ -13,6 +13,27 @@
       "description": "This is product 2",
       "price": 20.99,
       "quantity": 200
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "This is product 3",
+      "price": 10.99,
+      "quantity": 1200
+    },
+    {
+      "id": 4,
+      "name": "Hat",
+      "description": "This is summer hat.",
+      "price": 5.99,
+      "quantity": 2000
+    },
+    {
+      "id": 5,
+      "name": "Tent",
+      "description": "Made in South Korea",
+      "price": 120.99,
+      "quantity": 1200
     }
   ]
 }
